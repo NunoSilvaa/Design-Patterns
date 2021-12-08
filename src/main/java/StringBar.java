@@ -8,6 +8,10 @@ public class StringBar extends Bar{
         observers = new ArrayList<>();
     };
 
+    void order(StringDrink drink, StringRecipe recipe){
+        recipe.mix(drink);
+    }
+
     @Override
     public boolean isHappyHour() {
         return started;

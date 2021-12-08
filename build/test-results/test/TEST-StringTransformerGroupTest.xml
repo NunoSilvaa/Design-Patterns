@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StringTransformerGroupTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-08T18:59:15" hostname="DESKTOP-OK9QO7I" time="0.016">
+<testsuite name="StringTransformerGroupTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-08T19:35:31" hostname="DESKTOP-OK9QO7I" time="0.004">
   <properties/>
-  <testcase name="transformerGroup()" classname="StringTransformerGroupTest" time="0.014"/>
+  <testcase name="transformerGroup()" classname="StringTransformerGroupTest" time="0.002"/>
   <testcase name="transformerComposite()" classname="StringTransformerGroupTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
