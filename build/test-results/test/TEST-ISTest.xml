@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ISTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-08T19:35:31" hostname="DESKTOP-OK9QO7I" time="0.018">
+<testsuite name="ISTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-08T19:54:46" hostname="DESKTOP-OK9QO7I" time="0.003">
   <properties/>
-  <testcase name="impatientStrategy()" classname="ISTest" time="0.014"/>
-  <testcase name="smartStrategyStartClosed()" classname="ISTest" time="0.002"/>
-  <testcase name="smartStrategyStartOpened()" classname="ISTest" time="0.001"/>
+  <testcase name="impatientStrategy()" classname="ISTest" time="0.001"/>
+  <testcase name="smartStrategyStartClosed()" classname="ISTest" time="0.0"/>
+  <testcase name="smartStrategyStartOpened()" classname="ISTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

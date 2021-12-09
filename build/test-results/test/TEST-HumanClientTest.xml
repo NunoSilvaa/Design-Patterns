@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HumanClientTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-08T19:35:31" hostname="DESKTOP-OK9QO7I" time="0.614">
+<testsuite name="HumanClientTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-08T19:54:46" hostname="DESKTOP-OK9QO7I" time="0.462">
   <properties/>
-  <testcase name="removeObserver()" classname="HumanClientTest" time="0.604"/>
-  <testcase name="addObserver()" classname="HumanClientTest" time="0.009"/>
+  <testcase name="removeObserver()" classname="HumanClientTest" time="0.454"/>
+  <testcase name="addObserver()" classname="HumanClientTest" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
